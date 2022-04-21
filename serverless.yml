@@ -12,7 +12,6 @@
 # Happy Coding!
 
 service: serverlesstest
-frameworkVersion: '3'
 
 provider:
   name: aws
